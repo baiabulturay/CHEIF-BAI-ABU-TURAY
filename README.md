@@ -1,5 +1,26 @@
-## Welcome to GitHub Pages
 
+<h1>WEB HOSTING & DESIGN DCOM304</h1>
+<br>
+World Wide Web (Web) – multimedia-based collection of information, services, and Web sites supported by the Internet
+<br>
+Internet – vast network of computers that connects millions of people all over the world
+<br>
+The Web & Internet are different
+<br>
+Many people see them as the same
+<br>
+The Internet is the infrastructure that makes the Web possible
+<br>
+Web site – a specific location on the Web where you visit, gather information, and perhaps even order products
+<br>
+USA Today
+<br>
+Web site address – unique name that identifies a specific site on the Web
+<br>
+www.usatoday.com
+<br>
+Also called a domain name
+<br>
 You can use the [editor on GitHub](https://github.com/baiabulturay/CHEIF-BAI-ABU-TURAY/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
